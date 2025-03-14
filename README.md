@@ -28,7 +28,8 @@ Dependencies: Spring Initializer
 
 
 #  Dependencies
-   <dependency>
+
+	<dependency>
 		<groupId>org.springframework.ai</groupId>
 		<artifactId>spring-ai-pdf-document-reader</artifactId>
 	</dependency>
