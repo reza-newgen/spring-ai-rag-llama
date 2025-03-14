@@ -18,7 +18,7 @@ Create an API endpoint for document-aware chat interactions
 
 Java 23
 
-Maven`  ``
+Maven
 
 Docker Desktop
 
@@ -28,7 +28,6 @@ Dependencies: Spring Initializer
 
 
 #  Dependencies
-
     	<dependency>
 		<groupId>org.springframework.ai</groupId>
 		<artifactId>spring-ai-pdf-document-reader</artifactId>
